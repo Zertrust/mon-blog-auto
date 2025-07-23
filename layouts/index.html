@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h2>Derniers articles</h2>
+{{ range .Site.RegularPages }}
+    <article>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <div class="date">{{ .Date.Format "2 January 2006" }}</div>
+        <p>{{ .Summary }}</p>
+        <a href="{{ .Permalink }}">Lire la suite →</a>
+    </article>
+{{ end }}
+{{ end }}

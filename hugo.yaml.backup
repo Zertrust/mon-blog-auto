@@ -1,6 +1,7 @@
 baseURL: 'https://monblogauto.netlify.app'
 languageCode: 'fr-fr'
 title: 'Mon Blog Auto'
+theme: 'PaperMod'
 
 params:
   homeInfoParams:
