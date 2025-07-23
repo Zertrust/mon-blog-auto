@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://example.org/</link><description>Recent content on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Premier article test</title><link>https://example.org/posts/premier-article/</link><pubDate>Wed, 23 Jul 2025 10:00:00 +0200</pubDate><guid>https://example.org/posts/premier-article/</guid><description>&lt;p>Ceci est un premier article de test pour vérifier le fonctionnement du système.
-Si ça fonctionne, la première étape est bien remplie.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://51.75.194.177:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jul 2025 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://51.75.194.177:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premier article test</title>
+      <link>http://51.75.194.177:1313/posts/premier-article/</link>
+      <pubDate>Wed, 23 Jul 2025 10:00:00 +0200</pubDate>
+      <guid>http://51.75.194.177:1313/posts/premier-article/</guid>
+      <description>&lt;p&gt;Ceci est un premier article de test pour vérifier le fonctionnement du système.&#xA;Si ça fonctionne, la première étape est bien remplie.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
