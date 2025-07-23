@@ -1,0 +1,24 @@
+baseURL: 'https://monblogauto.netlify.app'
+languageCode: 'fr-fr'
+title: 'Mon Blog Auto'
+theme: 'PaperMod'
+
+params:
+  homeInfoParams:
+    Title: "Actualités automatisées"
+    Content: "Blog d'actualités généré quotidiennement avec Claude"
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/votre-username"
+
+menu:
+  main:
+    - identifier: home
+      name: Accueil
+      url: /
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20

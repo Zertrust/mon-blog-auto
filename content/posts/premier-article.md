@@ -6,3 +6,4 @@ tags: ["test"]
 ---
 
 Ceci est un premier article de test pour vérifier le fonctionnement du système.
+Si ça fonctionne, la première étape est bien remplie.
