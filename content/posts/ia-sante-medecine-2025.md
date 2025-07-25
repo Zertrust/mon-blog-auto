@@ -1,6 +1,6 @@
 ---
 title: "L'IA révolutionne la santé et la médecine en 2025 : diagnostic, traitement et prévention"
-date: 2025-07-25T16:00:00+02:00
+date: 2025-07-25T8:00:00+02:00
 draft: false
 tags: ["intelligence-artificielle", "santé", "médecine", "diagnostic", "2025", "innovation-médicale"]
 description: "Découvrez comment l'intelligence artificielle transforme la médecine en 2025 avec des diagnostics plus précis, des traitements personnalisés et une médecine préventive révolutionnaire."
